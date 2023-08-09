@@ -4,6 +4,11 @@
  * and open the template in the editor.
  */
 package ejemp;
+
+/**
+ *
+ * @author perey
+ */
 public class Lucas {
     
 }
